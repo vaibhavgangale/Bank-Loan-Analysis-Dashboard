@@ -1,91 +1,51 @@
-📊 #Bank Loan Analytics – Excel & Power BI
-🔹 Project Overview
+# Bank-Analysis-Project-
 
-This project focuses on Bank Loan Analytics using Excel and Power BI to gain insights into loan applications, repayments, defaults, and customer trends.
-The aim is to provide data-driven dashboards that help banks and financial institutions make better decisions regarding loan approvals and risk management.
+This repository contains my Bank Analysis Project, where I explored and analyzed banking data using Microsoft Excel and Power BI. The project focuses on uncovering key insights, visualizing important metrics, and helping stakeholders make informed decisions.
 
-🔹 Objectives
+📂 Project Highlights
 
-Analyze customer loan data to identify approval trends.
+- Data cleaning, transformation, and analysis using Excel
 
-Track loan performance (approved, rejected, defaulted, repaid).
+- Interactive dashboards and reports created with Power BI
 
-Understand customer demographics (age, income, occupation, credit score).
+- Key metrics include customer demographics, loan performance, credit scores, and transaction trends
 
-Build interactive dashboards for decision-makers.
+- Use of charts, slicers, and dynamic visuals to enhance decision-making
 
-Provide KPIs like loan approval rate, repayment ratio, and default risk.
+- Insights aimed at improving customer segmentation and identifying growth opportunities
+  
+-  Collected , cleaned and analyzed bank customer and loan datasets using
+   MS Excel (Power Query , Pivot Tables) For foundational data preparation
 
-🔹 Tools & Technologies
+- Build interactive dashboard with Power BI , Excel and MySQL to analyze 160k
+  financial records (loans, debit, credit)
 
-Excel → Data Cleaning, Pivot Tables, Charts.
+- Conducted trend analysis of loan disbursements over time to identify
+  seasonal lending patterns .
 
-Power BI → Interactive Dashboards, DAX Measures, Data Modeling.
+- Explored trends in loan amounts , approval rates , income groups , and
+  branch performance .
 
-Dataset → Bank loan records (customer info, loan details, repayment status).
+- Used visuals like bar charts , KPI cards , line graph , and slicers to create
+  interactive user – friendly reports .
 
-🔹 Features
 
-✅ Data Cleaning & Transformation in Excel
-✅ Exploratory Data Analysis (EDA)
-✅ Loan Approval vs Rejection Trends
-✅ Customer Segmentation by Income, Age, and Credit Score
-✅ KPI Dashboard for Loan Performance
-✅ Risk Analysis – Default Prediction Indicators
+🛠 Tools Used
 
-🔹 Dashboards
-📈 Excel Dashboard:
+- Microsoft Excel – data manipulation, pivot tables, charts , dashboard
 
-Loan approval trends
+- Power BI – interactive dashboards, data modeling, DAX calculations
 
-Customer income vs. loan amount
+🎯 Objective
 
-Pivot tables & visual insights
+- To provide actionable insights from banking data that can support customer targeting, risk assessment, and performance monitoring.
 
-📊 Power BI Dashboard:
 
-Interactive filters (age, income, credit score, loan type)
+## Excel Dashboard Image -
 
-KPIs: Approval Rate, Default Rate, Recovery Rate
+![ Excel Dashboard Images](https://github.com/siddheshpatere256/Bank-Analysis-Project-/blob/17c189366519eba58f7b3056ad7843090cf3969b/Bank%20Analysis%20Excel%20Dashboard.png)
 
-Drill-down analysis by demographics and geography
 
-🔹 Project Workflow
+## PowerBI Dashboard Image
 
-Data Collection → Loan dataset from bank records / sample data.
-
-Data Cleaning → Remove duplicates, handle missing values.
-
-Data Analysis → Pivot tables, summary statistics.
-
-Visualization → Build charts in Excel and dashboards in Power BI.
-
-Insights & Recommendations → Identify patterns for better loan management.
-
-🔹 Insights Gained
-
-Loan defaults are higher among customers with low credit scores.
-
-High-income groups tend to repay loans on time.
-
-Younger customers (age < 30) take more short-term loans.
-
-Approval rate is strongly linked to income stability & employment type.
-
-🔹 How to Use
-
-Download the project files (Excel Workbook & Power BI Dashboard).
-
-Open the Excel file to explore raw data and summary insights.
-
-Open the Power BI file (.pbix) to interact with live dashboards.
-
-🔹 Future Enhancements
-
-Integration with SQL database for real-time analytics.
-
-Predictive modeling for loan defaults using ML.
-
-Automated report generation.
-
-🔹 Project Screenshots
+![PowerBi Dashboard Image](https://github.com/siddheshpatere256/Bank-Analysis-Project-/blob/bf2dbc1250a3363051150ad1b268dd79062e5cfc/Bank%20Analysis%20PowerBI%20Dashboard.png)
