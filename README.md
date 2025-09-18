@@ -1,4 +1,4 @@
-📊 Bank Loan Analytics – Excel & Power BI
+#📊 Bank Loan Analytics – Excel & Power BI
 🔹 Project Overview
 
 This project focuses on Bank Loan Analytics using Excel and Power BI to gain insights into loan applications, repayments, defaults, and customer trends.
