@@ -43,7 +43,7 @@ This repository contains my Bank Analysis Project, where I explored and analyzed
 
 ## Excel Dashboard Image -
 
-![ Excel Dashboard Images](https://github.com/siddheshpatere256/Bank-Analysis-Project-/blob/17c189366519eba58f7b3056ad7843090cf3969b/Bank%20Analysis%20Excel%20Dashboard.png)
+![ Excel Dashboard Images](https://github.com/vaibhavgangale/Bank-Loan-Analysis-Dashboard/blob/63da0db7b596b5907de76493f0b1cde2b2fb4e3f/bank%20loan%20dashboard%20image.PNG)
 
 
 ## PowerBI Dashboard Image
