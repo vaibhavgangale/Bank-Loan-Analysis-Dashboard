@@ -48,4 +48,4 @@ This repository contains my Bank Analysis Project, where I explored and analyzed
 
 ## PowerBI Dashboard Image
 
-![PowerBi Dashboard Image](https://github.com/siddheshpatere256/Bank-Analysis-Project-/blob/bf2dbc1250a3363051150ad1b268dd79062e5cfc/Bank%20Analysis%20PowerBI%20Dashboard.png)
+![PowerBi Dashboard Image](https://github.com/vaibhavgangale/Bank-Loan-Analysis-Dashboard/blob/bb8791744df5990dff28e97b92e4e0216fae1eda/bank%20loan%20powerbi%20image.PNG)
